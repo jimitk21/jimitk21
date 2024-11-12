@@ -56,9 +56,17 @@
 
 
 ## Game Development 🎮
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity-original.svg" alt="Unity" height="50" /></a>  
-<a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unrealengine-original.svg" alt="Unreal Engine" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender-original.svg" alt="Blender" height="50" /></a>  
+<div align="center">
+<a href="https://unity.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" height="30"/>
+</a>
+<a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" height="30"/>
+</a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="30"/>
+</a>
+<a href="https://www.blender.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="30"/>
+</a>
 </div>
