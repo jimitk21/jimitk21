@@ -11,6 +11,7 @@ jimitk21/jimitk21 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://github.com/user-attachments/assets/2e811cd0-8080-4619-a1fa-69963fcf9cac)
+![image](https://github.com/user-attachments/assets/0729e909-a3f7-4c2c-8b91-55f913e08434)
+
 
 
